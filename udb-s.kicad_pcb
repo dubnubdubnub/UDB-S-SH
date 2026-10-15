@@ -470,10 +470,10 @@
       (net 10 "GNDPWR") (pinfunction "SHIELD") (pintype "passive") (tstamp 63ea48e2-eb16-47d3-a4e0-84e5394a4ef1))
     (pad "S1" thru_hole oval (at 4.32 -2.6 180) (size 1.3 1.7) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 10 "GNDPWR") (pinfunction "SHIELD") (pintype "passive") (tstamp ea204ea2-4584-4eef-867a-6459834f06a6))
-    (model "${KIPRJMOD}/libraries/locallib.pretty/HRO  TYPE-C-31-M-12.step"
-      (offset (xyz -4.47 0 0))
+    (model "${KIPRJMOD}/libraries/locallib.pretty/HRO-TYPE-C-31-M-12.step"
+      (offset (xyz 0 2.56 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
