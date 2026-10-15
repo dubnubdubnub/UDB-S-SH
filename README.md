@@ -1,5 +1,10 @@
 # Unified Daughterboard S Series
 
+> **UDB-S-SH fork:** J2 is a JST-SH compatible side-entry header (XYECONN XY-SH1.0-4A61, LCSC C19271998)
+> in place of the Molex Pico-EZmate 78171-0004. Pinout is unchanged (1 = 5V, 2 = D-, 3 = D+, 4 = GND), so it
+> takes a 4-pin 1:1 JST SH cable (SHR-04V-S-B both ends). The opening faces away from the USB-C receptacle.
+> The files under `production/` are still the upstream EZmate build and have not been regenerated.
+
 ![banner](https://github.com/Unified-Daughterboard/UDB-S/raw/main/assets/S1-Banner-Img.jpg)
 
 ## Introduction
